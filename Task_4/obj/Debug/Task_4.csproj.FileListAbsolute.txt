@@ -1,0 +1,7 @@
+D:\Lab_1\Lab_1\Lab_1\Task_4\obj\Debug\Task_4.csproj.AssemblyReference.cache
+D:\Lab_1\Lab_1\Lab_1\Task_4\obj\Debug\Task_4.csproj.SuggestedBindingRedirects.cache
+D:\Lab_1\Lab_1\Lab_1\Task_4\obj\Debug\Task_4.csproj.CoreCompileInputs.cache
+D:\Lab_1\Lab_1\Lab_1\Task_4\bin\Debug\Task_4.exe
+D:\Lab_1\Lab_1\Lab_1\Task_4\bin\Debug\Task_4.pdb
+D:\Lab_1\Lab_1\Lab_1\Task_4\obj\Debug\Task_4.exe
+D:\Lab_1\Lab_1\Lab_1\Task_4\obj\Debug\Task_4.pdb
